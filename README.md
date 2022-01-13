@@ -24,6 +24,7 @@ I'm always trying to make something cool :)
 
 ### _Stats_
 
-[![Stats](https://github-readme-stats.vercel.app/api?username=umgustavo&include_all_commits=true&show_icons=true&title_color=ff79c6&icon_color=8be9fd&text_color=c9d1d9&bg_color=0d1117)](https://github.com/umgustavo)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umgustavo&layout=compact&title_color=ff79c6&text_color=c9d1d9&bg_color=0d1117)](https://github.com/umgustavo)
+<p align="center">
+    <img alt="umgustavo's Github Stats" src="https://github-readme-stats.vercel.app/api?username=umgustavo&include_all_commits=true&show_icons=true&title_color=ff79c6&icon_color=8be9fd&text_color=c9d1d9&bg_color=0d1117" height="160em"/>
+    <img alt="umgustavo's Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umgustavo&layout=compact&title_color=ff79c6&text_color=c9d1d9&bg_color=0d1117" height="160em"/>
+</p>
