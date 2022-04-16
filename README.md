@@ -20,7 +20,7 @@ I'm always trying to make something cool :)
 
 ### _Discord_
 
-[![Discord DM](https://discord-md-badge.vercel.app/api/shield/630846636247220246?presenceTheme=dc)](https://discordapp.com/users/630846636247220246)
+[![Discord DM](https://discord-md-badge.vercel.app/api/shield/630846636247220246?theme=discord-inverted)](https://discordapp.com/users/630846636247220246)
 
 ### _Stats_
 
